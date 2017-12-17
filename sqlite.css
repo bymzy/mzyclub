@@ -4,8 +4,13 @@
   body {margin: 2px;}
 }
 body {
+  max-width: 74.92em;
   margin-top: 0;
   font-family: Verdana, sans-serif;
+  margin: 0 auto;
+  padding: .5em 1em 1em 1em;
+  background-color: white;
+  /* border: .1em solid #c0c0c0; */
 }
 
 /* Horizonal rules */
